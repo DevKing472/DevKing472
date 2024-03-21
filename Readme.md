@@ -6,5 +6,5 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=solarized&)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=solarized&utcOffset=8)
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKing472&show_icons=true&theme=transparent)
-  [DevKing472.github.io](https://github.com/DevKing472/DevKing472.github.io#readme)
+  
 </div>
