@@ -1,6 +1,5 @@
 <div align="center">
 
-  ### Profile details card
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevKing472&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevKing472&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevKing472&theme=solarized)
