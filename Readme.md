@@ -1,12 +1,4 @@
-<div align="center">
-
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevKing472&theme=solarized)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevKing472&theme=solarized)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevKing472&theme=solarized)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=solarized&)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=solarized&utcOffset=8)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKing472&show_icons=true&theme=transparent)
-  ### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools :
   <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -24,4 +16,13 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   </div>
+<div align="center">
+
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevKing472&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevKing472&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevKing472&theme=solarized)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=solarized&)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=solarized&utcOffset=8)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKing472&show_icons=true&theme=transparent)
+  
 </div>
