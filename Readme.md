@@ -19,6 +19,7 @@
  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="50" height="50" />
+ [![My Skills](https://skillicons.dev/icons?i=spring,materialui,flutter,wasm)](https://skillicons.dev)
  <img src="https://techstack-generator.vercel.app/spring-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/materialui-icon.svg" alt="icon" width="50" height="50" />
  <img src="https://techstack-generator.vercel.app/flutter-icon.svg" alt="icon" width="50" height="50" />
