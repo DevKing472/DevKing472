@@ -38,6 +38,16 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevKing472&theme=solarized)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=solarized&)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=solarized&utcOffset=8)
+  <div>
+
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DevKing472&show_icons=true&theme=transparent)
+  <p align="center">
+    <a href="https://github.com/DevKing472">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevKing472&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    </a>
+  </p>
+  </div>
+
+  ![DevKing's Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevKing472&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
   
 </div>
